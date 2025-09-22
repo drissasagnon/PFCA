@@ -1,13 +1,13 @@
 
-# PFCA-Pro: Hydro-Mechanical Primary Flight Control Actuator (MATLAB + Simulink)
+# PFCA: Hydro-Mechanical Primary Flight Control Actuator (MATLAB + Simulink)
 
-Professional, step-by-step project aligned with Airbus PFCA work (EHSV + cylinder + inner-loop control).
+PFCA (EHSV + cylinder + inner-loop control).
 
 ![Block Diagram](docs/figures/pfca_block_diagram.png)
 
 ## Repository Structure
 ```
-pfca-pro/
+pfca/
 ├─ matlab/
 │  ├─ src/                 # Nonlinear model & utilities
 │  └─ examples/            # Ready-to-run scripts (step, faults, FRF)
