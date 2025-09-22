@@ -1,0 +1,18 @@
+
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.mat
+*.mlx
+*.slxc
+*.autosave
+*.mdl.r20*
+slprj/
+codegen/
+*.slx
+*.mdlp
+
+# OS
+.DS_Store
+Thumbs.db
